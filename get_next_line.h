@@ -1,5 +1,6 @@
-#ifndef FT_GET_NEXT_LINE_H
-# define FT_GET_NEXT_LINE_H
+#ifndef GET_NEXT_LINE_H
+# define GET_NEXT_LINE_H
+
 # define BUFF_SIZE 4
 # define FD_SIZE 4096
 
